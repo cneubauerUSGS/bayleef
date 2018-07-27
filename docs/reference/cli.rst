@@ -358,5 +358,6 @@ Functions
 
 Bayleef's CLI simply dispatches to a number of python functions
 
-.. automodule:: bayleef.scripts.cli
-	:members:
+.. click:parser
+   :prog: bayleef
+   :show-nested:
